@@ -13,17 +13,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,flask,python,vite,html,css,tailwind,vscode,git,github" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreejesh06&show_icons=true&theme=radical&hide_title=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreejesh06&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejesh06&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🧠 Fun Developer Facts
 
