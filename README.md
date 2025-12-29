@@ -12,6 +12,16 @@
 I’m a **Full-Stack Developer** focused on building **scalable web applications** and **AI-powered systems**.  
 I enjoy working across the stack—from intuitive frontends to robust backend architectures—while integrating AI to solve real-world problems.
 
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,flask,python,vite,html,css,tailwind,git,github,vscode" />
+</p>
+
+
 ---
 
 ## 🧠 Competitive Programming (Live)
@@ -23,14 +33,6 @@ I enjoy working across the stack—from intuitive frontends to robust backend ar
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Problems_Solved-250%2B-success?style=for-the-badge" />
-</p>
-
----
-
-## 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,flask,python,vite,html,css,tailwind,git,github,vscode" />
 </p>
 
 ---
