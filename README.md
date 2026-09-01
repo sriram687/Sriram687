@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **Full-Stack Developer** focused on building **scalable web applications** and **AI-powered systems**.  
 I enjoy working across the stack—from intuitive frontends to robust backend architectures—while integrating AI to solve real-world problems.
@@ -15,7 +15,7 @@ I enjoy working across the stack—from intuitive frontends to robust backend ar
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,flask,python,vite,html,css,tailwind,git,github,vscode" />
@@ -24,7 +24,7 @@ I enjoy working across the stack—from intuitive frontends to robust backend ar
 
 ---
 
-## 🧠 Competitive Programming (Live)
+##  Competitive Programming (Live)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sriram_dev_?theme=dark&font=Fira%20Code&ext=heatmap" />
@@ -37,7 +37,7 @@ I enjoy working across the stack—from intuitive frontends to robust backend ar
 
 ---
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -49,7 +49,7 @@ I enjoy working across the stack—from intuitive frontends to robust backend ar
 
 ---
 
-## 📌 What I Focus On
+##  What I Focus On
 
 - Full-stack system design  
 - Secure authentication & authorization  
@@ -59,7 +59,7 @@ I enjoy working across the stack—from intuitive frontends to robust backend ar
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/sriram687">
